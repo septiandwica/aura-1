@@ -11,6 +11,9 @@ body{
     background-color: #2C3B2D;
     color: white;
     height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .hero img{
     width: 80%;
